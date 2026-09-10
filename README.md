@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GioohS2
+- 👋 Hi, I’m @Hello.Giooh
 - 🌱 I'm developing in the JavaScript language
 - 😄 Pronouns: Ela/Dela
 
