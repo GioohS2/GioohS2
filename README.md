@@ -1,8 +1,8 @@
-# 💫 About Me:
-Certificações & Formação (Alura)<br>-  Primeiros Passos com Engenharia de Dados (Python, Data Science, MongoDB, Apache Airflow)<br>- Desenvolvimento Front-End (HTML, CSS3, JavaScript, Flexbox, Responsividade)<br>- Produtividade & Gestão de Carreira (Soft Skills, Gestão de Tempo, Comunicação)
+# 💫 Sobre Mim:
+🎓Certificações & Formação (Alura)<br>-  Primeiros Passos com Engenharia de Dados (Python, Data Science, MongoDB, Apache Airflow)<br>- Desenvolvimento Front-End (HTML, CSS3, JavaScript, Flexbox, Responsividade)<br>- Produtividade & Gestão de Carreira (Soft Skills, Gestão de Tempo, Comunicação)
 
 
-## 🌐 Socials:
+## 🌐 Redes sociais:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Giovanna Santos ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:giovannasantosproenca@gmail.com) 
 
 # 💻 Tech Stack:
@@ -12,13 +12,10 @@ Certificações & Formação (Alura)<br>-  Primeiros Passos com Engenharia de Da
 ![](https://streak-stats.demolab.com/?user=GioohS2&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=GioohS2&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=GioohS2&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
+### ✍️ 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
-### 🔝 Top Contributed Repo
+### 🔝 Repositório com mais contribuições
 ![](https://github-contributor-stats.vercel.app/api?username=GioohS2&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
