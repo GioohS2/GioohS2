@@ -1,5 +1,5 @@
 # 💫 Sobre Mim:
-🎓Certificações & Formação (Alura)<br>-  Primeiros Passos com Engenharia de Dados (Python, Data Science, MongoDB, Apache Airflow)<br>- Desenvolvimento Front-End (HTML, CSS3, JavaScript, Flexbox, Responsividade)<br>- Produtividade & Gestão de Carreira (Soft Skills, Gestão de Tempo, Comunicação)
+🎓 Certificações & Formação (Alura)<br>-  Primeiros Passos com Engenharia de Dados (Python, Data Science, MongoDB, Apache Airflow)<br>- Desenvolvimento Front-End (HTML, CSS3, JavaScript, Flexbox, Responsividade)<br>- Produtividade & Gestão de Carreira (Soft Skills, Gestão de Tempo, Comunicação)
 
 
 ## 🌐 Redes sociais:
@@ -15,7 +15,7 @@
 ### ✍️ 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
-### 🔝 Repositório com mais contribuições
+### 🔽 Repositório com mais contribuições
 ![](https://github-contributor-stats.vercel.app/api?username=GioohS2&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
